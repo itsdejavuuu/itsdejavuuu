@@ -1,6 +1,6 @@
 # déjà vu
 
-[![gif]](cat.gif)
+![cat](https://raw.githubusercontent.com/itsdejavuuu/itsdejavuuu/main/cat.gif)
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
